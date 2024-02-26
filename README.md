@@ -27,3 +27,9 @@ Contributions are welcome! If you have any ideas, bug fixes, or improvements, fe
 # Acknowledgments:
 The game was inspired by classic arcade gameplay.
 Special thanks to the SFML development team for the fantastic library.
+
+# What I learned in this project
+1. How to link custom library files and how to include them
+2. How to use custom classes
+3. Load textures, sprites, and audio into the game
+4. & much more
